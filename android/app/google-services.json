@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795629466965",
+    "project_id": "giftdrop-dc480",
+    "storage_bucket": "giftdrop-dc480.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795629466965:android:0a2d8e38d2410546b16bdc",
+        "android_client_info": {
+          "package_name": "com.giftdrop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3kxKttcHEu48bcDSGWTKPhV60Xbn7sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
