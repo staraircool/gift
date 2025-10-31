@@ -40,11 +40,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'replace-with-your-android-api-key',
-    appId: '1:000000000000:android:placeholder',
-    messagingSenderId: '000000000000',
-    projectId: 'giftdrop-placeholder',
-    storageBucket: 'giftdrop-placeholder.appspot.com',
+    apiKey: 'AIzaSyCa3kxKttcHEu48bcDSGWTKPhV60Xbn7sQ',
+    appId: '1:795629466965:android:0a2d8e38d2410546b16bdc',
+    messagingSenderId: '795629466965',
+    projectId: 'giftdrop-dc480',
+    storageBucket: 'giftdrop-dc480.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
